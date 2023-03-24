@@ -167,6 +167,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUEXUQYF
 
+[Document8]
+DocumentPath=IRsense.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IPDOWHKT
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ES2_ProximitySensor\Design Rule Check - ProxSensorType1.html
 DItemRevisionGUID=
